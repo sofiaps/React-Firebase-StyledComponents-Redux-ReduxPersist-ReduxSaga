@@ -1,3 +1,5 @@
+Test it out at https://clothing-app-db-6f470.web.app/auth 😊
+
 # Crown e-Commerce with React-Firebase-StyledComponents-Redux-ReduxPersist-ReduxSaga
 ### Replace Redux-Thunk with Redux-Saga
 
