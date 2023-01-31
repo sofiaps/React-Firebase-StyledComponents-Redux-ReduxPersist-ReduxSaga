@@ -1,6 +1,6 @@
 Test it out at https://clothing-app-db-6f470.web.app 
 
-# Crown e-Commerce with React-Firebase-StyledComponents-Redux-ReduxPersist-ReduxSaga
+# e-Commerce created using React-Firebase-Styled Components-Redux-Redux Persist-Redux Saga
 ### Replace Redux-Thunk with Redux-Saga
 
 -Main Page with links to different categories
